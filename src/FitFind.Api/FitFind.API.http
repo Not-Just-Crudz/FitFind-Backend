@@ -1,0 +1,6 @@
+@FitFind.API_HostAddress = http://localhost:5242
+
+GET {{FitFind.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

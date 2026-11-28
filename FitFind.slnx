@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/FitFind.API.FunctionalTests/FitFind.API.FunctionalTests.csproj" Id="a1ff76b1-e4fd-4ba7-82ea-3c2c146177d0" />
+    <Project Path="tests/FitFind.Application.UnitTests/FitFind.Application.UnitTests.csproj" Id="19aafb41-05b3-4ba3-b3f3-1058782518cf" />
+    <Project Path="tests/FitFind.Domain.UnitTests/FitFind.Domain.UnitTests.csproj" Id="6fad7b61-33a7-40c8-8af2-31ae110ea9f9" />
+    <Project Path="tests/FitFind.Infrastructure.IntegrationTests/FitFind.Infrastructure.IntegrationTests.csproj" Id="9cfb41db-01f2-435a-a2f0-a3d90fae00d5" />
+  </Folder>
+  <Project Path="src/FitFind.Api/FitFind.Api.csproj" />
+  <Project Path="src/FitFind.Application/FitFind.Application.csproj" />
+  <Project Path="src/FitFind.Domain/FitFind.Domain.csproj" />
+  <Project Path="src/FitFind.Infrastructure/FitFind.Infrastructure.csproj" />
+</Solution>
